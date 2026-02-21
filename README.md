@@ -1,5 +1,9 @@
 # 💜 Customer Intelligence & Behavioral Analytics Dashboard
 
+## 🔗 Live Dashboard
+
+**Power BI Service Link**:  https://app.powerbi.com/links/rY3UwtdPyk?ctid=442e6744-dea2-475b-a7fd-27cb5af249db&pbi_source=linkShare&bookmarkGuid=632cee9d-4110-4d27-91bf-6c0fe5de9fd4
+
 ---
 
 ## 📌 Business Problem Statement
@@ -166,6 +170,21 @@ Customer-Intelligence-and-Behavioral-Analytics-Dashboard/
 │
 └── README.md
 ```
+
+---
+
+
+## 📸 Dashboard Preview
+
+<img src="screenshots/Overview.png" width="800"/>
+
+<img src="screenshots/Customer_Segmentation_&_Behaviour.png" width="800"/>
+
+<img src="screenshots/Advanced_Analysis(RFM).png" width="800"/>
+
+<img src="screenshots/Insights.png" width="800"/>
+
+
 
 ---
 
