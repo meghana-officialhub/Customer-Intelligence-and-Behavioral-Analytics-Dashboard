@@ -154,13 +154,13 @@ The final output is an interactive dashboard designed for business decision-make
 ```
 Customer-Intelligence-and-Behavioral-Analytics-Dashboard/
 │
-├── Business problem statement and deliverables/
+├── Business problem statement and deliverables/Business problem statement and deliverables.pdf
 │
 ├── Customer intelligence and behavioral analytics dashboard.ppt
 │
-├── Project Report/
+├── Project Report/Customer Intelligence & Behavioral Analytics Dashboard.pdf
 │
-├── Dataset/
+├── Dataset/customer_dataset.csv
 │
 ├── Customer intelligence and behavioral analytics dashboard.pbix
 │
